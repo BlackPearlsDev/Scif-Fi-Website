@@ -1,3 +1,5 @@
+![alt text](https://images2.alphacoders.com/100/1006252.jpg)
+
 # Scif-Fi-Website
 A showcase website with a scifi theme.
 
