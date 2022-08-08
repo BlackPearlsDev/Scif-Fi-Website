@@ -68,7 +68,7 @@ nav a:hover {
 	background-position: center;
 	background-repeat: no-repeat;
 	height: 40vh;
-	border-radius: 200px;
+	border-radius: 20px;
 	flex: 0.5;
 	position: relative;
 	transition: flex 0.5s ease-out;
@@ -90,7 +90,7 @@ nav a:hover {
 
 .panel.active {
 	flex: 5;
-	border-radius: 32px;
+	border-radius: 20px;
 }
 
 .panel.active h3 {
